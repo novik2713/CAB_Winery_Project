@@ -1,0 +1,47 @@
+White wine
+fixed acidity
+F-statistic: 21.923026494425756, P-value: 3.321537387880916e-10
+volatile acidity
+F-statistic: 133.6668084396585, P-value: 3.012823078922054e-57
+citric acid
+F-statistic: 0.23254245986965996, P-value: 0.7925248530727159
+residual sugar
+F-statistic: 21.934773835107606, P-value: 3.2830889157949124e-10
+chlorides
+F-statistic: 90.87064418602546, P-value: 1.7797433543986758e-39
+free sulfur dioxide
+F-statistic: 0.5909833608324854, P-value: 0.5538219567015075
+total sulfur dioxide
+F-statistic: 76.66028143448855, P-value: 1.650541621040454e-33
+density
+F-statistic: 209.69457693191376, P-value: 4.1941323440944663e-88
+pH
+F-statistic: 19.690945958199926, P-value: 3.0377212959215113e-09
+sulphates
+F-statistic: 7.115761884652371, P-value: 0.0008206303019817734
+alcohol
+F-statistic: 478.1628922043277, P-value: 2.0647901873531918e-190
+
+Red wine
+fixed acidity
+F-statistic: 7.30844888128248, P-value: 0.0006925121552352699
+volatile acidity
+F-statistic: 92.87437900766831, P-value: 6.994633687008598e-39
+citric acid
+F-statistic: 22.85735545283018, P-value: 1.6318768805914607e-10
+residual sugar
+F-statistic: 0.011800296751587022, P-value: 0.9882691399198739
+chlorides
+F-statistic: 10.542381423023661, P-value: 2.828013313137193e-05
+free sulfur dioxide
+F-statistic: 3.3917571885448745, P-value: 0.03389222922181107
+total sulfur dioxide
+F-statistic: 45.71048039843774, P-value: 4.965226898791742e-20
+density
+F-statistic: 25.018992085108984, P-value: 2.0009732581386505e-11
+pH
+F-statistic: 0.7354879827479522, P-value: 0.4794338960102369
+sulphates
+F-statistic: 41.83852380407374, P-value: 1.9501375044481924e-18
+alcohol
+F-statistic: 205.23448800361507, P-value: 4.776936653588672e-80
